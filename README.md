@@ -8,9 +8,9 @@ Welcome to my personal site! I am a Ph.D candidate at the Chinese University of 
 ---
 
 ## Academic Background
+
 * B.S in Computer Science and B.S in Applied Mathematics, University of Wisconsin, Madison. 2020
-  Ph.D in Mechanical and Automation Engineering, The Chinese University of Hong Kong. 2022 - Now
----
+* Ph.D in Mechanical and Automation Engineering, The Chinese University of Hong Kong. 2022 - Now
 
 ## Working Experimence
 

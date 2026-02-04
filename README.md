@@ -1,3 +1,6 @@
+[Home](./index) | [Research](./research) | [Publications](./publications)
+
+---
 # Hi there, I'm Jingjun Liu (刘京峻)
 
 ### Cable-driven soft robotics, soft robot modeling & analysis

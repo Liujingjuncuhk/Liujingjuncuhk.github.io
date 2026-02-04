@@ -3,15 +3,13 @@
 ---
 # Hi there, I'm Jingjun Liu (刘京峻)
 
-### Cable-driven soft robotics, soft robot modeling & analysis
-
-Welcome to my personal site! I am a Ph.D candidate at the Chinese University of Hong Kong
+Welcome to my personal site! I am a Ph.D candidate at the Chinese University of Hong Kong. My research is on Cable-driven soft robots, with its design, modeling, and applications.
 
 ---
 
 ## Academic Background
 * B.S in Computer Science and B.S in Applied Mathematics, University of Wisconsin, Madison. 2020
-* Ph.D in Mechanical and Automation Engineering, The Chinese University of Hong Kong. 2022 - Now
+  Ph.D in Mechanical and Automation Engineering, The Chinese University of Hong Kong. 2022 - Now
 ---
 
 ## Working Experimence

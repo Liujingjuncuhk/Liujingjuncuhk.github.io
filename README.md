@@ -1,8 +1,8 @@
-# Hi there, I'm Jingjun Liu
+# Hi there, I'm Jingjun Liu (刘京峻)
 
-### 🚀 Explorer | Creator | Lifelong Learner
+### Cable-driven soft robotics, soft robot modeling & analysis
 
-Welcome to my personal site! I am passionate about building things that live on the internet. This page serves as my digital garden where I share what I'm working on and what I've learned along the way.
+Welcome to my personal site! I am a Ph.D candidate at the Chinese University of Hong Kong
 
 ---
 

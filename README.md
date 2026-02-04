@@ -9,23 +9,16 @@ Welcome to my personal site! I am a Ph.D candidate at the Chinese University of 
 
 ---
 
-## 🛠️ My Skills
-* **Languages:** HTML, CSS, JavaScript
-* **Tools:** GitHub, VS Code, Git
-* **Interests:** Web Design, Automation, Open Source
-
+## Academic Background
+* **B.S in Computer Science and B.S in Applied Mathematics** University of Wisconsin, Madison. 2020
+* **Ph.D in Mechanical and Automation Engineering** The Chinese University of Hong Kong, 2022 - Now
 ---
 
-## 📂 Featured Projects
+## Working Experimence
 
-### [Project Name One](https://github.com/yourusername/project1)
-> A brief description of what this project does and why it's cool.
-*Built with: HTML/CSS*
+* **Internship** RoboticsX Lab, Tencent. Nov. 2021- June 2022
 
-### [Project Name Two](https://github.com/yourusername/project2)
-> Another awesome project that solves a specific problem.
-*Built with: JavaScript*
-
+## Teaching Experimence
 ---
 
 ## 📈 GitHub Stats
@@ -36,7 +29,7 @@ Welcome to my personal site! I am a Ph.D candidate at the Chinese University of 
 ## 📫 How to reach me
 * **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 * **LinkedIn:** [in/yourname](https://linkedin.com/in/yourname)
-* **Email:** yourname@example.com
+* **Email:** jingjunliu@mae.cuhk.edu.hk
 
 ---
 *Built with 💚 using [GitHub Pages](https://pages.github.com/)*
